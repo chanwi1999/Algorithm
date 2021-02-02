@@ -8,8 +8,6 @@
 int OFFSET, tree[SZ_TR];
 int nos[MAX_N + 1];
 
-int min(int a, int b) { return (a < b) ? a : b; }
-
 void init(int N) {
 	int i;
 
