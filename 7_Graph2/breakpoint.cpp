@@ -1,5 +1,5 @@
 /* backjoon problem 11266 */
-/* Graphs breakpoint algorithm */
+/* adjacency list */
 
 #include <cstdio>
 #include <vector>
